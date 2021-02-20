@@ -60,6 +60,7 @@ h1, h2, h3, h4, h5 {
     font-size: 18px;
     margin-bottom: 15px;
     font-family: 'Rubik', sans-serif;
+    
 }
 
 p {
@@ -148,7 +149,7 @@ footer nav a {
 /* header and image styles*/
 header, .imgContainer {
     width: 800px;
-    margin: 2% auto;
+    margin: 1% auto;
 }
 header {
     display: flex;
@@ -197,3 +198,9 @@ nav a{
     background-color: dodgerblue;
 }
 
+/* aboutpage styles */
+/* top section styles */
+.top {
+    border-bottom: 1px dashed black;
+    padding: 2%;
+}
